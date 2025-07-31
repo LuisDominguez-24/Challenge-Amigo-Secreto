@@ -23,6 +23,7 @@ El principal objetivo es practicar lógica de programación y manipulación del 
 ## Cómo usar
 
 1. Escribe el nombre de un amigo en el campo de texto.
+![PrimerPaso](assets/PrimerPaso.png)
 2. Presiona el botón **Añadir** para agregarlo a la lista.
 3. Repite para todos los amigos que quieres incluir.
 4. Una vez agregados al menos dos amigos, presiona el botón **Sortear amigo** para elegir aleatoriamente.
