@@ -25,9 +25,13 @@ El principal objetivo es practicar lógica de programación y manipulación del 
 1. Escribe el nombre de un amigo en el campo de texto.
 ![PrimerPaso](assets/PrimerPaso.png)
 2. Presiona el botón **Añadir** para agregarlo a la lista.
+![SegundoPaso](assets/SegundoPaso.png)
 3. Repite para todos los amigos que quieres incluir.
+![TercerPaso](assets/TercerPaso.png)
 4. Una vez agregados al menos dos amigos, presiona el botón **Sortear amigo** para elegir aleatoriamente.
+![CuartoPaso](assets/CuartoPaso.png)
 5. El resultado aparecerá debajo de la lista de amigos.
+![QuintoPaso](assets/QuintoPaso.png)
 
 ---
 
